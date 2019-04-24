@@ -1,0 +1,234 @@
+[2019-03-11T10:24:26.921] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:24:26.923] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:24:56.816] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:24:56.817] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:27:21.679] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:27:21.681] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:27:24.172] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:27:24.174] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:27:32.685] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:27:32.687] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:27:34.113] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:27:34.114] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:27:59.070] [INFO] kafkaWebApp - <<<<<<<<<<<<<<<<ENDPOINT: SIGNUP>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2019-03-11T10:27:59.070] [DEBUG] kafkaWebApp - First nameJim
+[2019-03-11T10:27:59.070] [DEBUG] kafkaWebApp - Last nameJohnson.
+[2019-03-11T10:27:59.070] [DEBUG] kafkaWebApp - Phone Number8904374405
+[2019-03-11T10:27:59.070] [DEBUG] kafkaWebApp - emaildarshan010@gmaxil.com
+[2019-03-11T10:27:59.070] [DEBUG] kafkaWebApp - DoB11-01-1992 00:00:00
+[2019-03-11T10:27:59.075] [DEBUG] kafkaWebApp - message from helper :undefined
+[2019-03-11T10:28:17.291] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:28:17.292] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:28:18.131] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:28:18.132] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:28:37.242] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:28:37.243] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:28:38.808] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:28:38.810] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:28:46.097] [INFO] kafkaWebApp - <<<<<<<<<<<<<<<<ENDPOINT: SIGNUP>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2019-03-11T10:28:46.098] [DEBUG] kafkaWebApp - First nameJim
+[2019-03-11T10:28:46.098] [DEBUG] kafkaWebApp - Last nameJohnson.
+[2019-03-11T10:28:46.098] [DEBUG] kafkaWebApp - Phone Number8904374405
+[2019-03-11T10:28:46.098] [DEBUG] kafkaWebApp - emaildarshan010@gmaxil.com
+[2019-03-11T10:28:46.098] [DEBUG] kafkaWebApp - DoB11-01-1992 00:00:00
+[2019-03-11T10:28:46.103] [DEBUG] kafkaWebApp - message from helper :undefined
+[2019-03-11T10:28:46.103] [DEBUG] kafkaWebApp - token: token
+[2019-03-11T10:29:00.324] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:29:00.325] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:29:03.027] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:29:03.028] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:29:05.934] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:29:05.936] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:29:14.535] [INFO] kafkaWebApp - <<<<<<<<<<<<<<<<ENDPOINT: SIGNUP>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2019-03-11T10:29:14.536] [DEBUG] kafkaWebApp - First nameJim
+[2019-03-11T10:29:14.536] [DEBUG] kafkaWebApp - Last nameJohnson.
+[2019-03-11T10:29:14.536] [DEBUG] kafkaWebApp - Phone Number8904374405
+[2019-03-11T10:29:14.536] [DEBUG] kafkaWebApp - emaildarshan010@gmaxil.com
+[2019-03-11T10:29:14.536] [DEBUG] kafkaWebApp - DoB11-01-1992 00:00:00
+[2019-03-11T10:29:14.542] [DEBUG] kafkaWebApp - message from helper :undefined
+[2019-03-11T10:29:14.542] [DEBUG] kafkaWebApp - token: token
+[2019-03-11T10:30:15.752] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:30:15.753] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:30:21.413] [INFO] kafkaWebApp - <<<<<<<<<<<<<<<<ENDPOINT: SIGNUP>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2019-03-11T10:30:21.413] [DEBUG] kafkaWebApp - First nameJim
+[2019-03-11T10:30:21.413] [DEBUG] kafkaWebApp - Last nameJohnson.
+[2019-03-11T10:30:21.413] [DEBUG] kafkaWebApp - Phone Number8904374405
+[2019-03-11T10:30:21.413] [DEBUG] kafkaWebApp - emaildarshan010@gmaxil.com
+[2019-03-11T10:30:21.413] [DEBUG] kafkaWebApp - DoB11-01-1992 00:00:00
+[2019-03-11T10:30:21.419] [DEBUG] kafkaWebApp - message from helper :undefined
+[2019-03-11T10:30:21.419] [DEBUG] kafkaWebApp - token: token
+[2019-03-11T10:33:03.252] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:33:03.253] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:33:05.179] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:33:05.181] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:33:18.185] [DEBUG] kafkaWebApp -  ------>>>>>> new request for /signup
+[2019-03-11T10:33:18.185] [INFO] kafkaWebApp - <<<<<<<<<<<<<<<<ENDPOINT: SIGNUP>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2019-03-11T10:33:18.185] [DEBUG] kafkaWebApp - First nameJim
+[2019-03-11T10:33:18.185] [DEBUG] kafkaWebApp - Last nameJohnson.
+[2019-03-11T10:33:18.185] [DEBUG] kafkaWebApp - Phone Number8904374405
+[2019-03-11T10:33:18.185] [DEBUG] kafkaWebApp - emaildarshan010@gmaxil.com
+[2019-03-11T10:33:18.185] [DEBUG] kafkaWebApp - DoB11-01-1992 00:00:00
+[2019-03-11T10:33:18.192] [DEBUG] kafkaWebApp - message from helper :undefined
+[2019-03-11T10:33:18.194] [DEBUG] kafkaWebApp - token: token
+[2019-03-11T10:33:22.317] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:33:22.318] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:33:22.630] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:33:22.631] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:33:28.430] [DEBUG] kafkaWebApp -  ------>>>>>> new request for /signup
+[2019-03-11T10:33:28.430] [INFO] kafkaWebApp - <<<<<<<<<<<<<<<<ENDPOINT: SIGNUP>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2019-03-11T10:33:28.430] [DEBUG] kafkaWebApp - First nameJim
+[2019-03-11T10:33:28.430] [DEBUG] kafkaWebApp - Last nameJohnson.
+[2019-03-11T10:33:28.430] [DEBUG] kafkaWebApp - Phone Number8904374405
+[2019-03-11T10:33:28.430] [DEBUG] kafkaWebApp - emaildarshan010@gmaxil.com
+[2019-03-11T10:33:28.430] [DEBUG] kafkaWebApp - DoB11-01-1992 00:00:00
+[2019-03-11T10:33:28.436] [DEBUG] kafkaWebApp - message from helper :undefined
+[2019-03-11T10:33:28.437] [DEBUG] kafkaWebApp - token: token
+[2019-03-11T10:33:43.083] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:33:43.085] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:33:46.189] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:33:46.190] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:33:49.564] [DEBUG] kafkaWebApp -  ------>>>>>> new request for /signup
+[2019-03-11T10:33:49.564] [INFO] kafkaWebApp - <<<<<<<<<<<<<<<<ENDPOINT: SIGNUP>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2019-03-11T10:33:49.564] [DEBUG] kafkaWebApp - First nameJim
+[2019-03-11T10:33:49.564] [DEBUG] kafkaWebApp - Last nameJohnson.
+[2019-03-11T10:33:49.564] [DEBUG] kafkaWebApp - Phone Number8904374405
+[2019-03-11T10:33:49.564] [DEBUG] kafkaWebApp - emaildarshan010@gmaxil.com
+[2019-03-11T10:33:49.564] [DEBUG] kafkaWebApp - DoB11-01-1992 00:00:00
+[2019-03-11T10:33:49.569] [DEBUG] kafkaWebApp - message from helper :undefined
+[2019-03-11T10:33:49.570] [DEBUG] kafkaWebApp - token: token
+[2019-03-11T10:34:09.653] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:34:09.654] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:34:11.254] [DEBUG] kafkaWebApp -  ------>>>>>> new request for /signup
+[2019-03-11T10:34:11.255] [INFO] kafkaWebApp - <<<<<<<<<<<<<<<<ENDPOINT: SIGNUP>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2019-03-11T10:34:11.255] [DEBUG] kafkaWebApp - First nameJim
+[2019-03-11T10:34:11.255] [DEBUG] kafkaWebApp - Last nameJohnson.
+[2019-03-11T10:34:11.255] [DEBUG] kafkaWebApp - Phone Number8904374405
+[2019-03-11T10:34:11.255] [DEBUG] kafkaWebApp - emaildarshan010@gmaxil.com
+[2019-03-11T10:34:11.255] [DEBUG] kafkaWebApp - DoB11-01-1992 00:00:00
+[2019-03-11T10:34:11.264] [DEBUG] kafkaWebApp - message from helper :undefined
+[2019-03-11T10:34:11.265] [DEBUG] kafkaWebApp - token: token
+[2019-03-11T10:35:31.752] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:35:31.753] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:35:32.129] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:35:32.130] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:35:36.017] [DEBUG] kafkaWebApp -  ------>>>>>> new request for /signup
+[2019-03-11T10:35:36.017] [INFO] kafkaWebApp - <<<<<<<<<<<<<<<<ENDPOINT: SIGNUP>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2019-03-11T10:35:36.017] [DEBUG] kafkaWebApp - First nameJim
+[2019-03-11T10:35:36.017] [DEBUG] kafkaWebApp - Last nameJohnson.
+[2019-03-11T10:35:36.017] [DEBUG] kafkaWebApp - Phone Number8904374405
+[2019-03-11T10:35:36.017] [DEBUG] kafkaWebApp - emaildarshan010@gmaxil.com
+[2019-03-11T10:35:36.017] [DEBUG] kafkaWebApp - DoB11-01-1992 00:00:00
+[2019-03-11T10:35:36.024] [DEBUG] kafkaWebApp - message from helper :undefined
+[2019-03-11T10:35:36.025] [DEBUG] kafkaWebApp - token: token
+[2019-03-11T10:35:44.198] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:35:44.199] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:35:46.192] [DEBUG] kafkaWebApp -  ------>>>>>> new request for /signup
+[2019-03-11T10:35:46.193] [INFO] kafkaWebApp - <<<<<<<<<<<<<<<<ENDPOINT: SIGNUP>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2019-03-11T10:35:46.193] [DEBUG] kafkaWebApp - First nameJim
+[2019-03-11T10:35:46.193] [DEBUG] kafkaWebApp - Last nameJohnson.
+[2019-03-11T10:35:46.193] [DEBUG] kafkaWebApp - Phone Number8904374405
+[2019-03-11T10:35:46.193] [DEBUG] kafkaWebApp - emaildarshan010@gmaxil.com
+[2019-03-11T10:35:46.193] [DEBUG] kafkaWebApp - DoB11-01-1992 00:00:00
+[2019-03-11T10:35:46.199] [DEBUG] kafkaWebApp - message from helper :undefined
+[2019-03-11T10:35:46.200] [DEBUG] kafkaWebApp - token: token
+[2019-03-11T10:37:35.483] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:37:35.485] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:37:42.727] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:37:42.729] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:38:05.502] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:38:05.504] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:38:07.209] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:38:07.211] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:38:14.340] [DEBUG] kafkaWebApp -  ------>>>>>> new request for /signup
+[2019-03-11T10:38:14.340] [INFO] kafkaWebApp - <<<<<<<<<<<<<<<<ENDPOINT: SIGNUP>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2019-03-11T10:38:14.340] [DEBUG] kafkaWebApp - First nameJim
+[2019-03-11T10:38:14.340] [DEBUG] kafkaWebApp - Last nameJohnson.
+[2019-03-11T10:38:14.340] [DEBUG] kafkaWebApp - Phone Number8904374405
+[2019-03-11T10:38:14.340] [DEBUG] kafkaWebApp - emaildarshan010@gmaxil.com
+[2019-03-11T10:38:14.340] [DEBUG] kafkaWebApp - DoB11-01-1992 00:00:00
+[2019-03-11T10:38:14.347] [DEBUG] kafkaWebApp - message from helper :undefined
+[2019-03-11T10:38:14.348] [DEBUG] kafkaWebApp - token: token
+[2019-03-11T10:47:43.160] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:47:43.162] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:47:44.950] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:47:44.952] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T10:47:47.169] [INFO] kafkaWebApp - <<<<<<<<<<<<<<<<ENDPOINT: SIGNUP>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+[2019-03-11T10:47:47.169] [DEBUG] kafkaWebApp - First nameJim
+[2019-03-11T10:47:47.169] [DEBUG] kafkaWebApp - Last nameJohnson.
+[2019-03-11T10:47:47.169] [DEBUG] kafkaWebApp - Phone Number8904374405
+[2019-03-11T10:47:47.169] [DEBUG] kafkaWebApp - emaildarshan010@gmaxil.com
+[2019-03-11T10:47:47.169] [DEBUG] kafkaWebApp - DoB11-01-1992 00:00:00
+[2019-03-11T10:47:47.175] [DEBUG] kafkaWebApp - message from helper :undefined
+[2019-03-11T10:47:47.175] [DEBUG] kafkaWebApp - token: token
+[2019-03-11T10:51:52.839] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T10:51:52.842] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T11:13:49.282] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T11:13:49.284] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T11:13:58.888] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T11:13:58.890] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T11:17:52.323] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T11:17:52.324] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T11:54:53.604] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T11:54:53.606] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T11:56:06.038] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T11:56:06.040] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T11:56:26.166] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T11:56:26.167] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T11:56:51.384] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T11:56:51.385] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T11:56:52.488] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T11:56:52.490] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T11:57:02.322] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T11:57:02.323] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T12:05:40.271] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T12:05:40.272] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T12:08:45.725] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T12:08:45.726] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T12:10:38.137] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T12:10:38.138] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T12:10:53.676] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T12:10:53.678] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T12:10:56.442] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T12:10:56.443] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T12:11:02.627] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T12:11:02.629] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T12:15:06.875] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T12:15:06.877] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T12:17:32.991] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T12:17:32.993] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T12:19:04.305] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T12:19:04.307] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T12:19:15.095] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T12:19:15.096] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T12:19:45.542] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T12:19:45.543] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T12:21:02.403] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T12:21:02.404] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T12:21:22.991] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T12:21:22.992] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T12:22:33.383] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T12:22:33.384] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T12:23:01.666] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T12:23:01.667] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T12:23:48.963] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T12:23:48.965] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T12:24:27.049] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T12:24:27.051] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T14:30:58.122] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T14:30:58.124] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T14:41:27.271] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T14:41:27.272] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T14:42:42.632] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T14:42:42.633] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T14:42:56.477] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T14:42:56.478] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T14:44:38.197] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T14:44:38.199] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T14:46:27.543] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T14:46:27.544] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T14:47:02.161] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T14:47:02.162] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T14:47:55.450] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T14:47:55.451] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************
+[2019-03-11T14:50:52.438] [INFO] kafkaWebApp - ****************** SERVER STARTED ************************
+[2019-03-11T14:50:52.439] [INFO] kafkaWebApp - ***************  http://127.0.0.1:4000  ******************

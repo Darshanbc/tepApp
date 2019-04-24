@@ -1,0 +1,14 @@
+{
+    "keyStore":"/home/ubuntu/pjel/tepApp/keyStore",
+    "HOST":"18.218.96.99",
+    "KAFKA_PORT":"9092",
+    "PORT":"4000",
+    "ZOOKEEPER_PORT":"2181",
+    "HTTP_HOST":"http://18.218.96.99",
+    "topic":{
+        "TEST_TOPIC":"odd",
+        "userData":"userData",
+        "DataPool":"DataPool"
+    }
+    
+}

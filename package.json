@@ -1,0 +1,35 @@
+{
+  "name": "kafkaproducer",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "aws-sdk": "^2.384.0",
+    "bluebird": "^3.5.3",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "cryptr": "^4.0.2",
+    "express": "^4.16.4",
+    "express-bearer-token": "^2.2.0",
+    "express-jwt": "^5.3.1",
+    "graceful-fs": "^4.1.15",
+    "http": "^0.0.0",
+    "json": "^9.0.6",
+    "jsonwebtoken": "^8.4.0",
+    "kafka-node": "^4.0.1",
+    "log4js": "^3.0.6",
+    "md5": "^2.2.1",
+    "node-rsa": "^1.0.5",
+    "requests": "^0.2.2",
+    "util": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
